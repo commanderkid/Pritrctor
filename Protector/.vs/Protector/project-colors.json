@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2121ca91-d145-4818-9127-82133d1db007": {
+      "ProjectGuid": "2121ca91-d145-4818-9127-82133d1db007",
+      "DisplayName": "ProtectorServer",
+      "ColorIndex": 0
+    },
+    "b0948aaa-7874-4ed1-b23d-b713b7966b02": {
+      "ProjectGuid": "b0948aaa-7874-4ed1-b23d-b713b7966b02",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
